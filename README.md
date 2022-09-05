@@ -21,6 +21,8 @@
 
 </p>
 
+
+---
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="center"> 
 
@@ -44,6 +46,7 @@
 </p>
 </div>
 
+---
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfin7007&show_icons=true&theme=algolia&locale=en" alt="alfin7007" /></p>
