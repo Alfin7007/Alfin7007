@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfin7007&label=Profile%20views&color=0e75b6&style=flat" alt="alfin7007" /> </p>
 
-- 🌱 I’m currently learning **Go Programming Language**
+- 🔭 I’m currently working as **Backend Developer** using **Golang**
 
 - 📫 How to reach me **alfinfernandhapratama@gmail.com**
 
