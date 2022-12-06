@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfin7007&label=Profile%20views&color=0e75b6&style=flat" alt="alfin7007" /> </p>
 
-- 🔭 I’m currently working as **Backend Developer** using **Golang**
+-   🔭 I’m currently working as **Backend Developer** using **Golang**
 
-- 📫 How to reach me **alfinfernandhapratama@gmail.com**
+-   📫 How to reach me **alfinfernandhapratama@gmail.com**
 
-- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/11arxQGqH7NXen7Ut_pBj1btLRCDqCTlu/view?usp=sharing)**
+-   📄 Know about my experiences **[resume](https://drive.google.com/file/d/1qUi3MQ3zDhABOzXlXxXElRu7gXMeRLpD/view?usp=sharing)**
 
-- ⚡ Fun fact **I've graduate as Electrical and Teleommunication Engineer; Love freedom, and Cat**
+-   ⚡ Fun fact **I've graduate as Electrical and Teleommunication Engineer; Love freedom, and Cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,10 +21,10 @@
 
 </p>
 
-
 ---
+
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<div align="center"> 
+<div align="center">
 
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -53,10 +53,10 @@
 </div>
 
 ---
+
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfin-nandha&show_icons=true&theme=algolia&locale=en" alt="alfin7007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfin-nandha&theme=algolia&" alt="alfin7007" /></p>
 </div>
-
