@@ -8,7 +8,7 @@
 
 -   📫 How to reach me **alfinfernandhapratama@gmail.com**
 
--   📄 Know about my experiences **[resume](https://drive.google.com/file/d/1GlflKI3lyr0eLOW4dbKi1YNCI1RxK6Ms/view?usp=sharing)**
+-   📄 Know about my experiences **[resume](https://drive.google.com/file/d/16qPtpr6BetTj_FFeAcWlaVb25U2_o91E/view?usp=sharing)**
 
 -   ⚡ Fun fact **I've graduate as Electrical and Teleommunication Engineer; Love freedom, and Cat**
 
