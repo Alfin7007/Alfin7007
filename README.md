@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="left">:gear: GitHub Analytics:</h3>
+<!--h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfin-nandha&show_icons=true&theme=algolia&locale=en" alt="alfin7007" /></p>
 
